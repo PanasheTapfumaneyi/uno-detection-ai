@@ -1,0 +1,5 @@
+train: C:\Users\ADMIN\Desktop\Uni\Year 3\AI in Robotics\UnoProject\images\train  # Path to training images 
+val: C:\Users\ADMIN\Desktop\Uni\Year 3\AI in Robotics\UnoProject\images\validation      # Path to validation images
+
+nc: 5  # Number of classes
+names: ['Yellow_4_jpg.rf.0f2fc98024a730e21431917d2d92cad9', 'Yellow_6_jpg.rf.a014ca873e450ac04dc9b9a8c75719f0', 'Yellow_7_jpg.rf.7e6dc46818d69d1e81769f44b4d5dc31', 'Yellow_8_jpg.rf.01021054c3ebbc85ca09e0f2bc1bc16f','Yellow_9_jpg.rf.7644b48549fc8dd36af4a08acc502dd4']  # Class names
